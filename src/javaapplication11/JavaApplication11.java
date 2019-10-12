@@ -34,7 +34,7 @@ public class JavaApplication11 {
     
     System.out.println("--------------------");
     System.out.println("2001-2004 : " + batam);
-    System.out.println("2005-2007 : " + kualaenok);
+   System.out.println("2005-2007 : " + kualaenok);
     System.out.println("2008-2013 : " + sumbawa);
     System.out.println("20014-sekarang : " + inhil);
     }
